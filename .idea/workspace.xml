@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e0d367f-173d-4e28-986a-0c545924ee1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/productstar/homework/delivery/CargoSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/productstar/homework/delivery/DeliveryServiceWorkload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/productstar/homework/delivery/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/productstar/homework/delivery/UnacceptableDistanceForDelivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/productstar/homework/delivery/UnacceptableDistanceOfFragileCargoDelivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/productstar/homework/delivery/CalculationDeliveryCostTest.java" afterDir="false" />
+    <list default="true" id="5e0d367f-173d-4e28-986a-0c545924ee1f" name="Changes" comment="The homework is done">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +64,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/temp/delivery/README.md",
     "settings.editor.selected.configurable": "copyright.profiles"
   }
 }]]></component>
